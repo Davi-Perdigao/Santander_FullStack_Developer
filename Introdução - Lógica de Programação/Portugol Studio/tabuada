@@ -1,0 +1,18 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro contador, limite, resultado
+		contador = 0
+		limite = 10
+
+		faca{
+
+			resultado = 9 * contador
+			escreva("9 X " + contador + " = " + resultado + "\n")
+			contador++ //é o mesmo que escrever contador = contador + 1, só que mais curto!
+			
+		}enquanto (contador <= limite)
+	}
+}

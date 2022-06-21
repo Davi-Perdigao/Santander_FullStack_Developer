@@ -1,0 +1,24 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real jan, fev, mar, abr, soma, media
+
+		escreva("Insira o valor das vendas do mês de Janeiro:")
+		leia(jan)
+		escreva("Insira o valor das vendas do mês de Fevereiro:")
+		leia(fev)
+		escreva("Insira o valor das vendas do mês de Março:")
+		leia(mar)
+		escreva("Insira o valor das vendas do mês de Abril:")
+		leia(abr)
+
+		soma = jan+fev+mar+abr
+		media = soma/4
+
+		escreva("Você vendeu um total de R$" + soma +
+		" nesse quadrimestre, mantendo uma média de R$" +
+		media)
+	}
+}

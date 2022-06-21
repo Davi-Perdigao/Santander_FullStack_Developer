@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia pessoas[][] = {{"João", "São Paulo", "(11) 9999-5241"},{"Maria","Ribeirão Preto", "(16) 9999-8596"},{"Ana","Manaus","(92) 9999-8574"}}
+		inteiro contador = 0
+		
+		faca{
+			escreva("Nome: " + pessoas[contador][0] + "; Cidade: " + pessoas[contador][1] + "; Telefone: " + pessoas[contador][2]+ "\n")
+			contador++
+		}enquanto(contador<3)
+	}
+}

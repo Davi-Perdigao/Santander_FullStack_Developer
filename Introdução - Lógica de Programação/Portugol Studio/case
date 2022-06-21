@@ -1,0 +1,32 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("1 - Abrir Netflix, 2 - Abrir Amazon Prime, 3 - Abrir HBO GO, 4 - Sair \n")
+		inteiro menu = 0
+		escreva("Digite sua opção: \n")
+		leia(menu)
+
+		escolha(menu){
+			caso 1: //testa se valor é igual a 1
+			escreva("Abrindo Netflix...")
+			pare
+			
+			caso 2: //testa se valor é igual a 2
+			escreva("Abrindo Amazon Prime...")
+			pare
+			
+			caso 3: //testa se valor é igual a 3
+			escreva("Abrindo HBO GO...")
+			pare
+
+			caso 4: //testa se valor é igual a 4
+			escreva("Saindo...")
+			pare
+			
+			caso contrario: //caso não seja qualquer outro valor
+			escreva("Voce deve escolher entre as opções 1, 2  ou 3.")
+		}
+	}
+}

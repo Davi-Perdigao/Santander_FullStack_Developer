@@ -1,0 +1,21 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro contador, limite, resultado, tabuada
+		contador = 0
+		limite = 10
+
+		escreva("Digite a tabuada que quer consultar:")
+		leia(tabuada)
+
+		faca{
+
+			resultado = tabuada * contador
+			escreva(tabuada + " X " + contador + " = " + resultado + "\n")
+			contador++ //é o mesmo que escrever contador = contador + 1, só que mais curto!
+			
+		}enquanto (contador <= limite)
+	}
+}

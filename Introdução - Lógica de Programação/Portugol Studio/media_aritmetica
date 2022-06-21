@@ -1,0 +1,36 @@
+//Função do Algoritmo: Calcular média aritmética
+programa
+{
+	
+	funcao inicio()
+	{
+		real nota1, nota2, nota3, nota4, media
+		cadeia aluno
+
+		escreva("Digite o nome do aluno:")
+		leia(aluno)
+		escreva("Digite a nota 1:")
+		leia(nota1)
+		escreva("Digite a nota 2:")
+		leia(nota2)
+		escreva("Digite a nota 3:")
+		leia(nota3)
+		escreva("Digite a nota 4:")
+		leia(nota4)
+
+		media = (nota1+nota2+nota3+nota4)/4
+
+		
+		escreva("A média do aluno " + aluno + " é "+
+		media + "." + "\n" )
+
+		//verifica se a média é maior ou igual a sete
+		se(media>=7){
+			escreva ("Parabéns, você foi aprovado!")
+		}
+		//caso a média seja menor que 7
+		senao {
+			escreva("Infelizmente você foi reprovado.")
+		}
+	}
+}
