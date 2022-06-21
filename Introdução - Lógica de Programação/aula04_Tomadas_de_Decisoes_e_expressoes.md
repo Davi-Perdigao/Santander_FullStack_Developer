@@ -1,8 +1,6 @@
 # Aula 04 - Tomadas de decisão e expressões
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
-
+_aula ministrada pelo **Professor Denilson Bonatti**_
 ## Expressões aritméticas
 
 São expressões que utilizam operadores aritméticos e funões aritméticas, envolvendo constantes e variáveis
@@ -63,7 +61,7 @@ Boa parte da programação é baseada nas tomadas de decisões, quando algo só 
 
 ### Exemplo
 
-![Exemplo de condição de venda via cartões](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/compras_via_cartao.png)
+![Condição de venda via cartões](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/compras_cartao.png)
 
 ## Exercício
 
@@ -73,4 +71,4 @@ Após isso, vai verificar se a média das vendas foi superior que R$5000,00. Cas
 ---
 ## Resposta
 
-![Resposta do exercício de Abono](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_vendas.png)
+![Resposta do exercício de Abono](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_vendas.png)

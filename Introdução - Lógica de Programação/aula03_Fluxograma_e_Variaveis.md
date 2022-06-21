@@ -69,7 +69,6 @@ Além de nos permitir criar um fluxograma, o Flowgorithm ainda nos permite execu
 
 Criar um fluxograma recebendo as quatro notas, exibir o total da soma e calcular a média
 
----
-## Respostas
+## Resolução
 
 ![solucaodaatividade](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias.png)
