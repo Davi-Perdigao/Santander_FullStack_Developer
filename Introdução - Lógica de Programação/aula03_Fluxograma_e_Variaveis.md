@@ -1,8 +1,6 @@
 # Aula 03 - Fluxograma e Variáveis
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
-
+_aula ministrada pelo **Professor Denilson Bonatti**_
 ## O que é Fluxograma?
 
 Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados.
@@ -74,4 +72,4 @@ Criar um fluxograma recebendo as quatro notas, exibir o total da soma e calcular
 ---
 ## Respostas
 
-![solucaodaatividade](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias.png)
+![solucaodaatividade](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias.png)

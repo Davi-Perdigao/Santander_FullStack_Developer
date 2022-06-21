@@ -1,6 +1,6 @@
 # Aula 01 - Entendendo o que é lógica
 
-_aula ministrada por **Professor Denilson Bonatti**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## O que é lógica de programação?
 

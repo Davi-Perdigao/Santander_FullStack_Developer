@@ -1,6 +1,6 @@
 # Aula 02 - O que são algoritmos e pseudocódigo
 
-_aula ministrada por **Professor Denilson Bonatti**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## O que é algoritmo?
 
@@ -81,73 +81,4 @@ INICIO DO JOGO
     Atravessa
     Ovelha sai do barco
 FIM DO JOGO
-```
-
-## Exercícios
-
-1. Crie um algoritmo do seu dia
-
-2. Abra o site [clicando neste link](https://studio.code.org/s/mc/stage/1/puzzle/1) e tente resolver todos os problemas em menos de uma hora
-
-## IMPORTANTE!!!
-
-Se você conseguir realizar a atividade 2 em menos de uma hora, você PRECISA acessar o [Instagram](https://www.instagram.com), e faça uma postagem marcando os perfis @digitalinnovation.one e @denilsonbonatti e marque a #chupaDenilson pra mostrar que conseguiu!
-
-3. Acesse [esse link](https://rachacuca.com.br/jogos/pinguins-numa-fria), resolva o problema e crie o pseudocódigo para indicar para alguém como resolver esse problema.
-
----
-### Respostas
-
-1
-```
-INÍCIO DIA
-    Acordar
-    Preparar Café
-    Alimentar cães
-    Tomar Café
-    Estudar Mercado
-    Tomar Banho
-    Preparar Almoço
-    Passar roupa da Esposa
-    Levar Esposa no Serviço
-    Voltar pra casa
-    Limpar Casa
-    Jantar
-    Jogar no Computador
-    Buscar Esposa no Serviço
-    Voltar pra casa
-    Tomar café da noite
-    Assistir TV
-    Dormir
-FIM DIA
-```
-
-2
-Várias respostas de acordo com cada atividade
-
-3
-```
-INÍCIO JOGO
-    FilhoAzul sobe
-    PaiAzul sobe
-    Atravessa
-    PaiAzul desce
-    Atravessa
-    FilhoVerde sobe
-    Atravessa
-    FilhoAzul desce
-    Atravessa
-    PaiVerde sobe
-    Atravessa
-    PaiVerde desce
-    Atravessa
-    FilhoVermelho sobe
-    Atravessa
-    FilhoVerde desce
-    Atravessa
-    PaiVermelho sobe
-    Atravessa
-    PaiVermelho desce
-    FilhoVermelho desce
-FIM JOGO
 ```
