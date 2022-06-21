@@ -21,6 +21,7 @@
 ## Módulos Bootcamp
 
 - [Introdução - Lógica de Programação](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
+- [Materiais de Apoio](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Materiais%20de%20Apoio)
 
 <!-- ## Projetos / Desafios de Código
 
