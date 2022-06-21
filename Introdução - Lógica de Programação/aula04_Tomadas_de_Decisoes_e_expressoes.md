@@ -68,7 +68,6 @@ Boa parte da programação é baseada nas tomadas de decisões, quando algo só 
 Declare 4 variáveis com os valores Janeiro, Fevereiro, Março e Abril. Para cada uma delas, você vai atribuir um valor de venda mensal de um vendedor fictício.
 Após isso, vai verificar se a média das vendas foi superior que R$5000,00. Caso seja, parabenize o funcionário e diga que ele terá um abono de 10% no salário. Do contrário, avise que o abono será de apenas 3%.
 
----
-## Resposta
+## Resolução
 
 ![Resposta do exercício de Abono](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_vendas.png)

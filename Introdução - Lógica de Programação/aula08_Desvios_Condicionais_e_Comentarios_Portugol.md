@@ -1,7 +1,6 @@
 # Aula 08 - Desvios Condicionais e Comentários
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## Desvios Condicionais
 
@@ -103,5 +102,3 @@ Perceba que temos aqui pra estrutura `caso` várias palavras chave que são coma
 * `caso`: Vai dizer ao computador o que fazer `caso` a variável tenha o valor igual ao valor que colocarmos logo em frente da palavra caso
 * `caso contrario`: você pode colocar quantos casos quiser no seu comando, o usuário sempre vai dar um jeito de escrever um caso que não atende a nenhum deles! Para isso serve o caso contrario. Ele vai falar o que o computador deve fazer se nenhum dos casos for igual a variável
 * `pare`: O `pare` é essencial por uma única questão: Se não colocarmos ele, o computador vai executar o caso que seja igual a variável e também toooodos os outros abaixo dele, seguindo a sequência que o computador costuma seguir nos nossos programas. O pare diz para o computador parar de procurar novos casos, pois ele já encontrou e já executou o que precisa, pode sair de tooooodo o comando `escolha` e partir pro resto do código
-
-Ah, e um novo detalhe que você talvez já tenha percebido! Podemos fazer comentário na mesma linha em que temos código, basta colocar as duas barras! Olha lá em cada caso do nosso exemplo!

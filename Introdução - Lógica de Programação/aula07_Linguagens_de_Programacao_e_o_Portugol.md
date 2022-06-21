@@ -1,7 +1,6 @@
 # Aula 07 - Linguagens de Programação
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## O que são linguagens de programação?
 
@@ -91,8 +90,7 @@ Viu só? Simples simples! É a mesma coisa que a gente fez antes, mas agora escr
 
 Vamos refazer o exercício das vendas de um vendedor. Calculando a soma das vendas dos meses de Janeiro, Fevereiro, Março e Abril e também a média de suas vendas.
 
----
-## Resposta
+## Resolução
 
 ```
 programa

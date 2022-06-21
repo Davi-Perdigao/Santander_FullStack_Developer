@@ -1,7 +1,6 @@
 # Aula 05 - Concatenação
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## O que é concatenação?
 
@@ -33,7 +32,6 @@ Vale ficar atento também para os espaços. Ao colocar uma variável na concaten
 
 Vamos utilizar aquele exercício das médias e utilizar a concatenação. Pergunte o nome do aluno, peça as notas que ele tirou, e exiba uma frase pra ele, falando qual a média que o aluno tirou.
 
----
-## Resposta
+## Resolução
 
-![solução da atividade](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias_concatenacao.png)
+![atividade](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/fluxograma_soma_medias_concatenacao.png)

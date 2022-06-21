@@ -1,7 +1,6 @@
 # Aula 06 - Estrutura de Repetição
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## Estrutura de repetição
 
@@ -15,7 +14,6 @@ Dessa forma, podemos criar uma lista com o nome e telefone de vários clientes m
 
 Vamos tentar exibir a tabuada do 9 utilizando uma estrutura de repetição?
 
----
-## Resposta
+## Resolução
 
-![Tabuada do 9](https://github.com/PauloHLeme/Estudos_Bootcamp_DIO_Santander/blob/master/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/tabuada_do_nove.png)
+![Tabuada do 9](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Introdu%C3%A7%C3%A3o%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Imagens/tabuada_do_nove.png)

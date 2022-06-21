@@ -1,7 +1,6 @@
 # Aula 10 - Matrizes e Vetores
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## Matriz
 
@@ -107,14 +106,7 @@ Ana | Manaus | (92) 9999-8574
 
 Após isso, exiba todas as informações dessa matriz.
 
----
-
-## Resposta
-
-Vamos analisar o problema:
-
-Temos essa lista de 3 pessoas, contendo nome, cidade e telefone.
-Isso é uma tabela, então o processo natural é criar uma matriz.
+## Resolução
 
 ```
 programa
@@ -126,10 +118,6 @@ programa
 	}
 }
 ```
-
-Feito isso, vamos ter que criar uma estrutura de repetição para exibir esses dados. Para essa estrutura, temos 3 linhas e 3 colunas.
-
-Vamos precisar também de um contador, que vai falar pro nosso código quais linhas ele deve imprimir em cada passada pela função `faca`:
 
 ```
 programa
@@ -147,5 +135,3 @@ programa
 	}
 }
 ```
-
-Prontinho!

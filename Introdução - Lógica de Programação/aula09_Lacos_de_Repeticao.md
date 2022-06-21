@@ -1,7 +1,6 @@
 # Aula 09 - Laços de Repetição
 
-_aula ministrada por **Professor Denilson Bonatti**_
-_anotações por **Paulo Henrique Leme**_
+_aula ministrada pelo **Professor Denilson Bonatti**_
 
 ## Laços de Repetição
 
@@ -41,18 +40,8 @@ Agora, a estrutura faca (que seria faça, mas devemos lembrar que o ç é um tip
 ## Exercício
 
 Nós fizemos a tabuada do 9, mas e se quisermos mudar? Do jeito que o código está agora, temos que mudar manualmente todas as vezes. Nada prático! Crie uma forma de fazer o código poder realizar qualquer tabuada que quisermos, esse é o desafio!
----
 
-## Resposta
-
-Vamos pensar um pouco.
-No código anterior, nós digitamos o valor da tabuada desejada dentro do código, de uma forma fixa, e toda vez que queríamos mudar ela, tínhamos que alterar o valor manualmente.
-
-Se a gente tinha que alterar o valor, quer dizer então que é um valor que varia. Varia... varia... variável! Claro!
-
-Vamos criar uma variável nova e dar o nome de `tabuada`! Depois disso, a gente pede para o usuário digitar o valor da `tabuada` que ele quer ver!
-
-Feito isso, basta trocarmos os locais que tem o valor `9` pela variável `tabuada`!
+## Resolução
 
 ```
 programa
@@ -77,5 +66,3 @@ programa
 	}
 }
 ```
-
-Só não podemos esquecer que dentro do comando `escreva`, a variável tem que ser escrita fora das aspas e que devemos concatenar ela com o X que vai aparecer entre os valores. Tirando isso, todo o resto é igualzinho!
