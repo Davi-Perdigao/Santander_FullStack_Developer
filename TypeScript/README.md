@@ -1,5 +1,5 @@
 # Aula de TypeScript - DIO
-abcde
+abcdef
 O objetivo desse repositório é mostrar exemplos e desafios de TypeScript que vão dar uma noção geral suficiente da ferramenta para que ela seja usada no dia a dia do desenvolvedor.
 
 ## O que é o TypeScript
