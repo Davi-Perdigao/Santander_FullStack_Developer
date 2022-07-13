@@ -4,6 +4,7 @@ Primeiros passos para desenvolver com [Angular CLI](https://github.com/angular/a
 
 ### Resultado Final 👁️: 
 ***
- ![Foto Resultado](https://github.com/Davi-Perdigao/Spread_FullStack_Developer/blob/main/Interface%20Instagram/img/projeto-instagram.png)
-
+ ![Foto Resultado 1](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Angular/Introdu%C3%A7%C3%A3o%20ao%20Angular%208/course-manager-master/src/assets/images/img1.png)
+ 
+ ![Foto Resultado 2](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Angular/Introdu%C3%A7%C3%A3o%20ao%20Angular%208/course-manager-master/src/assets/images/img2.png)
 ***
