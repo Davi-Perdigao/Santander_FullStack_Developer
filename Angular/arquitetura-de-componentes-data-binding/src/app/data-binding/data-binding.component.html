@@ -1,0 +1,14 @@
+<div class="container justify-content-center">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <article class="user">
+                <img class="user__avatar" [src]="avatar">
+                <h1 class="user__name mt-3 mb-3">Oi, eu sou a {{name}}!</h1>
+                <form class="form-inline">
+                    <input class="form__input input-group" type="text" placeholder="Choose a name..." name="newName" [(ngModel)]="newName">
+                    <button class="form__button btn btn-primary" (click)="makeMeHero()">Make me badass!</button>
+                </form>
+            </article>
+        </div>
+    </div>
+</div>
