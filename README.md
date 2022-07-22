@@ -30,3 +30,8 @@
 ## Projetos / Desafios de Código
 
 - [Desafios de Código](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Desafios%20de%20C%C3%B3digo)
+- [Course Manager](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular/course-manager-master)
+- [Lista de Usuários](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular/crud-dio-angular-main)
+- [Cadastro de Alunos](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular/SPA-Angular-main)
+- [E-commerce](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular/E-commerce)
+- [Banco](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/JAVA/Projeto%20Banco)
