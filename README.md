@@ -24,7 +24,7 @@
 - [TypeScript](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/TypeScript)
 - [Angular](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular)
 - [Java](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/JAVA)
-- [Spring Framework](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Materiais%20de%20Apoio)
+- [Spring Framework](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Spring%20Framework)
 - [Materiais de Apoio](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Materiais%20de%20Apoio)
 
 ## Projetos / Desafios de Código
