@@ -36,6 +36,6 @@
 - [E-commerce](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Angular/E-commerce)
 - [Banco](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/JAVA/Projeto%20Banco)
 - [Padrões de Projeto Spring](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/tree/main/Spring%20Framework/lab-padroes-projeto-spring-main)
-
+a
 ## Conclusão do Bootcamp: 26/07/2022
 ![Certificado de Conclusão](https://github.com/Davi-Perdigao/Santander_FullStack_Developer/blob/main/Certificado%20Conclus%C3%A3o.png)
